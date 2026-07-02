@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshita Handage</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning Engineer | Generative AI Developer | Computer Vision Enthusiast | India 🇮🇳
+Java Full stack Development | Machine Learning Engineer | Generative AI Developer | Computer Vision Enthusiast | AI Engineer
 </h3>
 
 ---
@@ -26,14 +26,6 @@ AI Engineer | Machine Learning Engineer | Generative AI Developer | Computer Vis
  email <a href="mailto:rakshitahandage@gmail.com">rakshitahandage@gmail.com</a>
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -48,22 +40,6 @@ AI Engineer | Machine Learning Engineer | Generative AI Developer | Computer Vis
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
-
----
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,streamlit,flask"/>
-</p>
-
----
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
 </p>
 
 ---
