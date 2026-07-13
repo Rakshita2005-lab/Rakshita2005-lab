@@ -11,7 +11,7 @@ Java Full stack Development | Machine Learning Engineer | Generative AI Develope
 🎓 Final Year CSE Student (Computer Science & Engineering)
 
 💡 I build AI-powered applications involving Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI.
-🌱 Learning: DevOps, Docker, Kubernetes, AWS
+
 
 🔥 Currently focused on:
 - Large Language Models (LLMs)
